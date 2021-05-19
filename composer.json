@@ -1,0 +1,21 @@
+{
+  "name": "xindong888/tools",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "lqj",
+      "email": "xindong888@163.com"
+    }
+  ],
+  "require": {
+    "php": "^7.3|^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Com\\Xjke\\Tools\\": "src/Com/Xjke/Tools"
+    }
+  }
+}
