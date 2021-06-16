@@ -1,12 +1,12 @@
 # 一常用经典算法功能
 
-> ### 一 getPrivateAttrOne 通过转成数组的方式获取对象的私有属性
-> ### 二 getPrivateAttr 通过匿名函数来获取对象的私有字段的值
-> ### 三 generateTree 通过引用进行无限分类
-> ### 四 setPrivateAttr 设置对象私有属性值
+> ### 1 getPrivateAttrOne 通过转成数组的方式获取对象的私有属性
+> ### 2 getPrivateAttr 通过匿名函数来获取对象的私有字段的值
+> ### 3 generateTree 通过引用进行无限分类
+> ### 4 setPrivateAttr 设置对象私有属性值
 
 # 二.参数说明
-> 方法调用均为静态调用
+> 方法调用均为静态
 
 Com\Xjke\Tools\T::getPrivateAttrOne(object $obj, string $name)
 
